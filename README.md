@@ -191,15 +191,12 @@ Run the notebook cells in sequence.
 - Explore real-time network traffic monitoring.
 - Add a user-friendly interface for analysing predictions.
 
-## Authors
+## Author
 
 - Mohanasritha Eerla
-- Mounya Sri
-- Jahnavi
-- Harika Lakshmi Sai
 
 ## Project Type
 
-Academic Machine Learning Project
+Individual Academic Machine Learning Project
 
 **Repository:** https://github.com/ap24110011024/Zero-Day-Cyberattack-Detection
